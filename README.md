@@ -13,3 +13,5 @@ ___
 - **Business:** Microsoft Office, PowerBI, Digital Marketing
 ---
 ## Projects :books:
+- Data Science Portfolio Repository: [Python Portfolio](https://github.com/ckondis/Kondis-Python-Portfolio)
+
