@@ -13,6 +13,11 @@ ___
 - **Languages:** Python, R, SPSS
 - **Design:** Adobe Photoshop, InDesign, Premiere Pro, Data Visualization
 - **Business:** Microsoft Office, PowerBI, Digital Marketing
+___
+## Goals :chart_with_upwards_trend:
+- Strengthen Python programming skills including data transformation, advanced visualization, and modeling.
+- Apply data storytelling techniques to computing projects to enhance clarity and impact of projects
+- Learn foundational machine learning concepts and apply them to various areas of my studies
 ---
 ## Projects :books:
 - Data Science Portfolio Repository: [Python Portfolio](https://github.com/ckondis/Kondis-Python-Portfolio)
