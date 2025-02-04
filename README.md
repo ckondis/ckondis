@@ -2,7 +2,8 @@
 
 ## About Me :sunny:
 I am a junior at the **University of Notre Dame** majoring in **Marketing** with minors in **Real Estate** and **Computing & Digital Technologies**. 
-- LinkedIn: [Claire Kondis](https://www.linkedin.com/in/claire-kondis-461b6b265/)
+- **Interests:** Real Estate Development, Marketing Analytics, Tennis, Ceramics, Collegiate Gymnastics
+- **LinkedIn:** [Claire Kondis](https://www.linkedin.com/in/claire-kondis-461b6b265/)
 ___
 ## Education 🎓
 - **Bachelors of Business Administration** - University of Notre Dame (2026)
