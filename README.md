@@ -22,3 +22,4 @@ ___
 ## Projects :books:
 - Data Science Portfolio Repository: [Python Portfolio](https://github.com/ckondis/Kondis-Python-Portfolio)
 
+![abstract-leaves-border-frame-bottom-horizontal-vector-26030160](https://github.com/user-attachments/assets/3abf6eb7-27dd-4108-9bf4-e7980f149c2a)
