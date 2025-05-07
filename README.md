@@ -14,6 +14,7 @@ ___
 - **Languages:** Python, R, SPSS, SQL
 - **Design:** Adobe Photoshop, InDesign, Premiere Pro, Data Visualization
 - **Business:** Microsoft Office, PowerBI, Digital Marketing
+- **Showcase Project:** https://github.com/ckondis/Kondis-Python-Portfolio/tree/main/StreamlitAppFinal
 ___
 ## Goals :chart_with_upwards_trend:
 - Strengthen Python programming skills in data transformation, advanced visualization, and modeling through practical applications and project-based learning
@@ -21,15 +22,15 @@ ___
 - Build foundational machine learning knowledge and explore its applications across various domains
 - Develop and deploy interactive tools that bridge the gap between complex data and real-world decision-making, improving user experience and engagement
 ---
-## Projects :books:
+## Recent Projects :books:
 - **Data Science Portfolio Repository:** [Python Portfolio](https://github.com/ckondis/Kondis-Python-Portfolio)
 - **🏠 Real Estate Investment Analyzer** - Streamlit App:
-  - https://github.com/ckondis/Kondis-Python-Portfolio/tree/main/basic_streamlit_app
+  - https://github.com/ckondis/Kondis-Python-Portfolio/tree/main/StreamlitAppFinal
 - **💸 Tidy Data Project** - Analyzes U.S. Federal Spending:
   - https://github.com/ckondis/Kondis-Python-Portfolio/tree/main/TidyData-Project
 - **📖 NER spaCy App** - Builds Customizable NLP Interface:
   - https://github.com/ckondis/Kondis-Python-Portfolio/tree/main/NERStreamlitApp
 - **📊 Introductory Streamlit App** - Interactive Streamlit App:
-  - https://github.com/ckondis/Kondis-Python-Portfolio/tree/main/StreamlitAppFinal
+  - https://github.com/ckondis/Kondis-Python-Portfolio/tree/main/basic_streamlit_app
 
 ![abstract-leaves-border-frame-bottom-horizontal-vector-26030160](https://github.com/user-attachments/assets/3abf6eb7-27dd-4108-9bf4-e7980f149c2a)
