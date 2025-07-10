@@ -1,8 +1,8 @@
 # Hello, I'm Claire 👋
 
 ## About Me :sunny:
-I am a junior at the **University of Notre Dame** majoring in **Marketing** with minors in **Real Estate** and **Computing & Digital Technologies**. 
-- **Interests:** Real Estate Development, Marketing Analytics, Interior Design, Tennis, Ceramics, Collegiate Gymnastics
+I am a senior at the **University of Notre Dame** majoring in **Marketing** with minors in **Real Estate** and **Computing & Digital Technologies**. 
+- **Interests:** Data Storytelling, Marketing Analytics, Interior Design, Tennis, Ceramics
 - **LinkedIn:** [Claire Kondis](https://www.linkedin.com/in/claire-kondis-461b6b265/)
 - **GitHub:** [ckondis](https://github.com/ckondis)
 ___
