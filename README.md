@@ -8,10 +8,10 @@ I am a junior at the **University of Notre Dame** majoring in **Marketing** with
 ___
 ## Education 🎓
 - **Bachelors of Business Administration** - University of Notre Dame (2026)
-- **GPA** - 3.75
+- **GPA** - 3.79
 ___
 ## Technical Skills :iphone:
-- **Languages:** Python, R, SPSS, SQL
+- **Languages:** Python, R, SPSS, SQL (introductory)
 - **Design:** Adobe Photoshop, InDesign, Premiere Pro, Data Visualization
 - **Business:** Microsoft Office, PowerBI, Digital Marketing
 - **Showcase Project:** https://github.com/ckondis/Kondis-Python-Portfolio/tree/main/StreamlitAppFinal
