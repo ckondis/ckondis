@@ -30,7 +30,6 @@ ___
   - https://github.com/ckondis/Kondis-Python-Portfolio/tree/main/TidyData-Project
 - **📖 NER spaCy App** - Builds Customizable NLP Interface:
   - https://github.com/ckondis/Kondis-Python-Portfolio/tree/main/NERStreamlitApp
-- **📊 Introductory Streamlit App** - Interactive Streamlit App:
-  - https://github.com/ckondis/Kondis-Python-Portfolio/tree/main/basic_streamlit_app
+
 
 ![abstract-leaves-border-frame-bottom-horizontal-vector-26030160](https://github.com/user-attachments/assets/3abf6eb7-27dd-4108-9bf4-e7980f149c2a)
