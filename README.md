@@ -2,7 +2,7 @@
 
 ## About Me :sunny:
 I am a senior at the **University of Notre Dame** majoring in **Marketing** with minors in **Real Estate** and **Computing & Digital Technologies**. 
-- **Interests:** Data Storytelling, Marketing Analytics, Interior Design, Tennis, Ceramics
+- **Interests:** Data Storytelling, Marketing Analytics, Consumer Insights, & Visual Communication
 - **LinkedIn:** [Claire Kondis](https://www.linkedin.com/in/claire-kondis-461b6b265/)
 - **GitHub:** [ckondis](https://github.com/ckondis)
 ___
@@ -11,8 +11,8 @@ ___
 - **GPA** - 3.79
 ___
 ## Technical Skills :iphone:
-- **Languages:** Python, R, SPSS, SQL (introductory)
-- **Design:** Adobe Photoshop, InDesign, Premiere Pro, Data Visualization
+- **Languages:** Python, R, SPSS, SQL (Introductory)
+- **Design:** Adobe Photoshop, Adobe InDesign, Adobe Premiere Pro, Data Visualization
 - **Business:** Microsoft Office, PowerBI, Digital Marketing
 - **Showcase Project:** https://github.com/ckondis/Kondis-Python-Portfolio/tree/main/StreamlitAppFinal
 ___
