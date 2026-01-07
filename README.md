@@ -8,7 +8,7 @@ I am a senior at the **University of Notre Dame** majoring in **Marketing** with
 ___
 ## Education 🎓
 - **Bachelors of Business Administration** - University of Notre Dame (2026)
-- **GPA** - 3.79
+- **GPA** - 3.8
 ___
 ## Technical Skills :iphone:
 - **Languages:** Python, R, SPSS, SQL (Introductory)
